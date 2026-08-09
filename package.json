@@ -1,0 +1,15 @@
+{
+  "name": "hieugaphim-stremio-addon",
+  "version": "1.0.0",
+  "description": "Stremio add-on xem phim từ nguồn Hiếu Gà Phim (hieugaphim.fun / phimapi.com)",
+  "main": "addon.js",
+  "scripts": {
+    "start": "node addon.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
